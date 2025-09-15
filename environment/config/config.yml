@@ -1,0 +1,26 @@
+llm:
+  api_key: 
+  base_url: 
+
+# SaarthiX Platform Configuration
+saarthix:
+  platform_name: "SaarthiX - AI Multilingual Video Generation"
+  target_audience: "1.4B+ Indians across 20+ languages"
+  content_types: ["healthcare", "agriculture", "climate_alerts", "government_schemes", "education"]
+  supported_languages: ["hindi", "bengali", "telugu", "marathi", "tamil", "gujarati", "kannada", "malayalam", "punjabi", "odia", "english"]
+  video_format: "mobile_first"
+  delivery_platforms: ["social_media", "tv", "education", "whatsapp", "youtube"]
+
+# Multi-Agent System Configuration
+agents:
+  content_agent:
+    role: "Data validation and curation"
+    capabilities: ["fact_checking", "source_verification", "cultural_sensitivity"]
+  
+  script_agent:
+    role: "Convert data to local-language scripts" 
+    capabilities: ["multilingual_translation", "dialect_support", "literacy_adaptation"]
+  
+  video_agent:
+    role: "Generate visuals, captions, and voiceovers"
+    capabilities: ["visual_generation", "tts_synthesis", "subtitle_generation", "mobile_optimization"]

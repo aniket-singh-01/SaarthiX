@@ -1,0 +1,8 @@
+#saarthix_news_agent:
+#  idea: "Generate urgent, actionable news content for Indian communities. Focus on climate alerts, health advisories, government announcements, and agricultural updates. Keep content concise, culturally relevant, and accessible across literacy levels."
+#  output: "dataset/user_output_video/saarthix_news_output.mp4"
+#  video_source_dir: "dataset/user_video/"
+#  content_types: ["climate_alerts", "health_advisories", "government_updates", "agricultural_news", "emergency_broadcasts"]
+#  urgency_levels: ["immediate", "important", "informational"]
+#  distribution_channels: ["whatsapp", "local_tv", "radio", "community_centers", "social_media"]
+#  language_priority: ["local_dialect", "state_language", "hindi", "english"]

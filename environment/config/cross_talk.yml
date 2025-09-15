@@ -1,0 +1,9 @@
+# saarthix_content:
+#   reqs: 'Generate multilingual educational content for Indian audiences. Focus on healthcare, agriculture, climate alerts, and government schemes. Content should be culturally sensitive and accessible to diverse literacy levels'
+#   audio_path: 'dataset/content/multilingual_explainer.wav'
+#   script_agent: 'dataset/content/script_generator'
+#   video_agent: 'dataset/content/video_generator'
+#   output: "dataset/user_output_video/saarthix_output.mp4"
+
+##  Video Assets Directory for SaarthiX Platform
+#   video_source_dir: "dataset/user_video/"

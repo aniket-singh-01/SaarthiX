@@ -1,0 +1,8 @@
+#saarthix_content_agent:
+#  idea: "Generate culturally appropriate multilingual content for Indian audiences. Focus on making complex information accessible through simple explanations in local languages."
+#  output: "dataset/user_output_video/saarthix_content_output.mp4"
+#  video_source_dir: "dataset/user_video/"
+#  source_text: "dataset/user_text_source/government_schemes.txt"
+#  content_categories: ["healthcare_tips", "agricultural_advisories", "climate_warnings", "educational_content", "government_updates"]
+#  target_regions: ["rural", "urban", "semi_urban"]
+#  accessibility_features: ["low_bandwidth_optimization", "offline_capability", "sign_language_support"]

@@ -1,0 +1,21 @@
+# saarthix_voice_generation:
+## Audio-visual content generation for multilingual educational videos
+#   midi: "dataset/saarthix_voice/educational_melody.mid"
+#   lyrics: "dataset/saarthix_voice/multilingual_content.txt"
+
+##  Target voice for Indian language synthesis
+#   target: "dataset/saarthix_voice/indian_narrator.wav"
+
+#   bgm: "dataset/saarthix_voice/cultural_background_music.wav"
+#   reqs: |
+#         - Voice synthesis for SaarthiX educational content
+#         - Generate clear, culturally appropriate narration for Indian audiences
+#         - Support multiple Indian languages and regional dialects
+#         - Focus on healthcare awareness, agricultural guidance, and government scheme information
+#         - Ensure accessibility for diverse literacy levels and age groups
+#         - Optimize for mobile-first delivery and low-bandwidth environments
+#         - Include emotional tone appropriate for urgent alerts vs educational content
+#   output: "dataset/user_output_video/saarthix_multilingual_output.mp4"
+
+##  Video Assets Directory for SaarthiX Platform
+#   video_source_dir: "dataset/user_video/"

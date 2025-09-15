@@ -1,0 +1,7 @@
+# saarthix_rhythm_agent:
+#   audio: "dataset/user_music/indian_cultural_music.mp3"
+#   idea: "Generate engaging visual narratives for SaarthiX educational content. Focus on healthcare workers helping communities, farmers using modern techniques, families receiving government benefits, and climate-resilient practices. Ensure diverse representation of Indian demographics and regions."
+#   output: "dataset/user_output_video/saarthix_rhythm_output.mp4"
+#   video_source_dir: "dataset/user_video/"
+#   content_themes: ["healthcare_awareness", "agricultural_innovation", "government_schemes", "climate_adaptation", "education_access"]
+#   visual_style: ["mobile_optimized", "culturally_authentic", "accessibility_focused", "low_bandwidth_friendly"]

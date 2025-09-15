@@ -1,0 +1,9 @@
+# multilingual_explainer:
+#   reqs: 'Generate mobile-first explainer videos for Indian audiences. Convert complex information into simple, actionable content in local languages and dialects'
+#   audio_path: 'dataset/explainer/multilingual_narration.wav'
+#   target: 'dataset/explainer/content_generator'
+#   output: "dataset/user_output_video/saarthix_explainer.mp4"
+#   languages: ['hindi', 'bengali', 'telugu', 'marathi', 'tamil', 'gujarati', 'kannada', 'malayalam', 'punjabi', 'odia']
+
+## Video Assets Directory for SaarthiX
+#  video_source_dir: "dataset/user_video/"

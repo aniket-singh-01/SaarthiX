@@ -1,0 +1,57 @@
+# saarthix_tts:
+#   video_path: "dataset/saarthix_tts/educational_content.mp4"
+#   reqs: |
+#         - Generate clear, natural-sounding voiceovers for Indian audiences
+#         - Support multiple Indian languages and dialects with proper pronunciation
+#         - Adapt tone and pace for different content types (urgent alerts vs educational content)
+#         - Ensure cultural sensitivity in voice selection and delivery style
+#         - Optimize audio quality for mobile playback and low-bandwidth environments
+#         - Include pauses and emphasis for better comprehension across literacy levels
+
+
+#saarthix_multilingual_tts:
+#  video_path: "dataset/saarthix_tts/multilingual_explainer.mp4"
+#  reqs: |
+#      Generate voice content for SaarthiX platform:video_path: "dataset/mad_tts/马保国.mp4"
+#   reqs: |
+#         - 马保国：混元形意实验室主任
+#         - 将原台词中的武术和搏击相关的词汇，替换成跟做AI研究相关的词汇，词汇替换的变化长度不应超过2个字
+#         - 讲述两个博士生，一个引用量高，一个发表论文多，来请教马老师，最后马老师劝不要搞窝里斗
+#         - 词汇搭配要合理
+#         - 保留“大意了没有闪”“四两拨千斤”
+
+
+#mad_tts:
+#  video_path: "dataset/mad_tts/MVP.mp4"
+#  reqs: |
+#      基于以下场景创作一段诸葛亮的愤怒反击：
+#      - 说话者：诸葛亮（我）
+#      - 诸葛亮（我）被人质问为什么某三国人物评分比你高而展开反击
+#      - 保留: 三点零、十三点零、躺赢狗
+#      - 开头不要添加零杠几
+#      - 后文的评分对比需要差异明显，可以夸张一些
+#      - 口语化，符合客观史实，只替换具体内容
+
+
+#mad_tts:
+#    video_path: "dataset/mad_tts/找自己问题.mp4"
+#    reqs: |
+#      基于以下场景创作一段诸葛亮（我）的愤怒反击：
+#      - 说话者：诸葛亮（我）
+#      - 以**北伐失败怎么不找找自己问题**开头，后续的“...找自己问题”句式，需要**全部**列举二次元动漫的事件
+#      - 二次元动漫的举例需要提及动漫的具体人物
+#      - 只有**最后一个**“...找自己问题”需要回到北伐失败场景
+#      - 语言口语化，动漫多样化
+#
+
+
+#mad_tts:
+#    video_path: "dataset/mad_tts/回答我.mp4"
+#    reqs: |
+#      背景：蜜雪冰城是一家以冰淇淋和茶饮为主的全国连锁品牌，在3.15消费者权益日，被指出使用了隔夜柠檬，但相比于其他的爆料，使用隔夜柠檬的不算是多么恶劣的情况，反而情有可原
+#      - 说话者：雪王（蜜雪冰城的代表）
+#      - 目的：强调**隔夜柠檬**情况不太严重，突出蜜雪冰城的口碑好
+#      - 完全保留“Look in my eyes tell me why why baby why”、“回答我”
+#      - 用“说话”该词结尾
+#      - 原文若存在语句不通顺的地方，例如多余文字，混乱语义，就不需模仿该处的风格、句式。
+#      - 确保语句自然、通顺
