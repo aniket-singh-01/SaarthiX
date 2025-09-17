@@ -261,20 +261,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Contact & Support
-
-- **Website:** [saarthix.ai](https://saarthix.ai)
-- **Email:** support@saarthix.ai
-- **Twitter:** [@SaarthiX](https://twitter.com/saarthix)
-- **LinkedIn:** [SaarthiX](https://linkedin.com/company/saarthix)
-
-### For Partnerships
-- **NGOs & Educators:** partnerships@saarthix.ai
-- **Government Agencies:** government@saarthix.ai  
-- **Developers:** developers@saarthix.ai
-
----
-
 **🚀 Built with ❤️ for Bharat's Digital Future**
 
 *Making information accessible, one video at a time.*
